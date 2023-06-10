@@ -1,0 +1,11 @@
+﻿D:\Scoala\Poli\DXWorks\results\hbase\hbase-voyager-results\jafax\results\hbase-layout.json
+D:\Scoala\Poli\DXWorks\results\hbase\hbase-dx\jafax-extract\
+hbase/
+
+D:\Scoala\Poli\DXWorks\results\pdfbox\pdfbox-voyager-results\jafax\results\pdfbox-layout.json
+D:\Scoala\Poli\DXWorks\results\pdfbox\pdfbox-dx\jafax-extract\
+pdfbox/
+
+D:\Scoala\Poli\DXWorks\results\argouml\argouml-voyager-results\jafax\results\argouml-layout.json
+D:\Scoala\Poli\DXWorks\results\argouml_radu2\argouml-dx\jafax-extract\
+argouml/
